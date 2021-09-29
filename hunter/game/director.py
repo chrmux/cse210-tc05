@@ -1,3 +1,4 @@
+
 import sys
 import os
 class Director:
@@ -88,4 +89,21 @@ loses a line. Guessing continues until the puzzle is solved or, well, you know."
         
 
 
+=======
+import random
 
+
+class Director:
+  
+  def start_game():
+    pass
+  
+  def get_word_masked():
+    pass
+  
+  def get_guesses_left():
+    pass
+  
+  def get_word():
+    words=[]
+    return random.choice(words)
