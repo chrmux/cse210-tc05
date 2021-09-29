@@ -40,5 +40,5 @@ root                    (project root folder)
 ## Authors
 ---
 * Joshua Montoya - CSE 210 Student
-* 
+* Jerry Marollano - CSE 210 Student
 * 
